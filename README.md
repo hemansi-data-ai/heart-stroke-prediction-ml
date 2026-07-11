@@ -119,10 +119,7 @@ The trained model was deployed as an interactive Streamlit web application where
 ---
 
 ### Streamlit Application
-<img width="921" height="758" alt="Screenshot 2026-07-10 181057" src="https://github.com/user-attachments/assets/35222fee-0f0e-4516-82b6-0918321f8545" />
-
-### Correlation Heatmap
-<img width="753" height="615" alt="Screenshot 2026-07-10 181133" src="https://github.com/user-attachments/assets/fb420cdd-e623-40f9-9ced-9d418ef20dc3" />
+https://github.com/user-attachments/assets/d99b0581-4026-4609-a6d1-17cac62d7fa8
 
 ---
 
