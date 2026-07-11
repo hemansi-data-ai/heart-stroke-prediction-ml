@@ -119,7 +119,7 @@ The trained model was deployed as an interactive Streamlit web application where
 ---
 
 ### Streamlit Application
-https://github.com/user-attachments/assets/d99b0581-4026-4609-a6d1-17cac62d7fa8
+https://github.com/user-attachments/assets/3bc10b48-5fcc-40f0-8c46-de88312e0956
 
 ---
 
